@@ -1,4 +1,4 @@
-# [![Sviatoslav Holovin](header.png)](https://chsw.pp.ua/)
+# <a href="https://chsw.pp.ua/" target="blank">![Sviatoslav Holovin](header.png)</a>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Howdy
 I'm Sviat, a 17 years old student from Ukraine.
