@@ -2,18 +2,17 @@
   <img src="https://raw.githubusercontent.com/ggsmou/ggsmou/main/header.png" alt="Sviatoslav Holovin">
 </h1>
 
-## QQ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
-I'm Marton, a 18 years old web developer from Hungary.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Howdy
+I'm Sviat, a 17 years old student from Ukraine.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 I’m currently learning software engineering and stuff 😉
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Core team member at [@DocoUA](https://github.com/DocoUA)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+## <img src="https://media.tenor.com/tkpOfRTT21UAAAAi/flexed-biceps-joypixels.gif" width="3%"> Skills
+- 👨‍💻 HTML, CSS, JavaScript, Python, C#(_just a little bit_)
+- 👁️ Figma, Photoshop, Premier Pro 
+- 🎤 Streaming, video making
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
