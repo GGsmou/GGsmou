@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ggsmou/ggsmou/main/header.svg" alt="Svyat Golovin">
+  <img src="https://raw.githubusercontent.com/ggsmou/ggsmou/main/header.png" alt="Sviatoslav Holovin">
 </h1>
 
 ## Hey! 👋
