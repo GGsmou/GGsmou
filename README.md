@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ggsmou/ggsmou/main/header.png" alt="Sviatoslav Holovin">
-</h1>
+# [![Sviatoslav Holovin](header.png)](https://chsw.pp.ua/)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Howdy
 I'm Sviat, a 17 years old student from Ukraine.
@@ -14,8 +12,6 @@ I'm Sviat, a 17 years old student from Ukraine.
 - 👁️ Figma, Photoshop, Premier Pro 
 - 🎤 Streaming, video making
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+## <img src="https://static.tildacdn.com/tild3665-6438-4332-a430-633965613961/Call-Me-Hand.gif" width="3%"> Contact
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="20%">](https://www.youtube.com/channel/UCNJSflCc38h3aSz3zkBt5DA)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="20%">](https://www.youtube.com/channel/UCNJSflCc38h3aSz3zkBt5DA)
