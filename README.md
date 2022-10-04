@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ggsmou/ggsmou/main/header.png" alt="Sviatoslav Holovin">
 </h1>
 
-## Hey! 👋
+## QQ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 I'm Marton, a 18 years old web developer from Hungary.
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
