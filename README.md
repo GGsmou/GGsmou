@@ -13,11 +13,11 @@ I'm Sviat, a 17 years old student from Ukraine.
 - 🎤 Streaming, video making
 
 ## [<img src="https://static.tildacdn.com/tild3665-6438-4332-a430-633965613961/Call-Me-Hand.gif" width="3%" alt="🤙">](https://chsw.pp.ua/) Contact
-[<img src="https://chsw.pp.ua/main/img/logo.png" width="4%">](https://chsw.pp.ua/)
-[<img src="https://chsw.pp.ua/main/img/YouTube-Logo.png" width="4%">](https://www.youtube.com/channel/UCNJSflCc38h3aSz3zkBt5DA)
-[<img src="https://chsw.pp.ua/main/img/Discord-Logo.png" width="4%">](https://discord.gg/9krjq7NxG4)
-[<img src="https://chsw.pp.ua/main/img/TikTok-Logo.png" width="4%">](https://www.tiktok.com/@ggsmou?)
-[<img src="https://chsw.pp.ua/main/img/Instagram-Logo.png" width="4%">](https://www.instagram.com/svyat_golovin)
-[<img src="https://chsw.pp.ua/main/img/Twitch-Logo.png" width="4%">](https://www.twitch.tv/ggsmou)
-[<img src="https://chsw.pp.ua/main/img/Telegram-Logo.png" width="4%">](https://t.me/chec0de)
-[<img src="https://chsw.pp.ua/main/img/OpenSea-Logo.png" width="4%">](https://opensea.io/GGsmou)
+[<img src="https://chsw.pp.ua/main/img/logos/logo.png" width="4%">](https://chsw.pp.ua/)
+[<img src="https://chsw.pp.ua/main/img/logos/YouTube-Logo.png" width="4%">](https://www.youtube.com/channel/UCNJSflCc38h3aSz3zkBt5DA)
+[<img src="https://chsw.pp.ua/main/img/logos/Discord-Logo.png" width="4%">](https://discord.gg/9krjq7NxG4)
+[<img src="https://chsw.pp.ua/main/img/logos/TikTok-Logo.png" width="4%">](https://www.tiktok.com/@ggsmou?)
+[<img src="https://chsw.pp.ua/main/img/logos/Instagram-Logo.png" width="4%">](https://www.instagram.com/svyat_golovin)
+[<img src="https://chsw.pp.ua/main/img/logos/Twitch-Logo.png" width="4%">](https://www.twitch.tv/ggsmou)
+[<img src="https://chsw.pp.ua/main/img/logos/Telegram-Logo.png" width="4%">](https://t.me/chec0de)
+[<img src="https://chsw.pp.ua/main/img/logos/OpenSea-Logo.png" width="4%">](https://opensea.io/GGsmou)
