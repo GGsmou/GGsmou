@@ -1,16 +1,16 @@
 # [![Sviatoslav Holovin](header.png)](https://chsw.pp.ua/)
 
 ## [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" alt="👋">](https://chsw.pp.ua/) Howdy
-I'm Sviat, a 17 years old student from Ukraine.
+I'm Sviat, a 18 years old student from Ukraine.
 
 - 🧭 I’m currently learning software engineering and stuff 😉
 
-- 👥 Discord bots are my passion, but I also like other thingts
+- 👥 Front-end is my passion, but I also like other thingts
 
 ## [<img src="https://media.tenor.com/tkpOfRTT21UAAAAi/flexed-biceps-joypixels.gif" width="3%" alt="💪">](https://chsw.pp.ua/) Skills
-- 👨‍💻 HTML, CSS, JavaScript, Python, Rust(_just a little bit_)
-- 👁️ Figma, Photoshop, Premier Pro 
-- 🎤 Streaming, video making
+- 👨‍💻 HTML, CSS(tailwind, saas), JavaScript(react)
+- 👁️ Figma, Photoshop
+- 🎤 Streaming
 
 ## [<img src="https://static.tildacdn.com/tild3665-6438-4332-a430-633965613961/Call-Me-Hand.gif" width="3%" alt="🤙">](https://chsw.pp.ua/) Contact
 [<img src="https://chsw.pp.ua/main/img/logos/logo.png" width="4%">](https://chsw.pp.ua/)
