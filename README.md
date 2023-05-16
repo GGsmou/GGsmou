@@ -20,4 +20,5 @@ I'm Sviat, a 18 years old student from Ukraine.
 [<img src="https://chsw.pp.ua/main/img/logos/LeetCode-Logo.png" width="4%">](https://leetcode.com/GGsmou/)
 [<img src="https://chsw.pp.ua/main/img/logos/CodeWars-Logo.png" width="4%">](https://www.codewars.com/users/GGsmou)
 [<img src="https://chsw.pp.ua/main/img/logos/TikTok-Logo.png" width="4%">](https://www.tiktok.com/@ggsmou?)
+[<img src="https://chsw.pp.ua/main/img/logos/ChessCom-Logo.png" width="2.5%">](https://www.chess.com/member/ggsmou)
 [<img src="https://chsw.pp.ua/main/img/logos/OpenSea-Logo.png" width="4%">](https://opensea.io/GGsmou)
