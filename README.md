@@ -7,8 +7,8 @@
 - 👥 Frontend is my passion, but I also like other thingts
 
 ## [<img src="https://media.tenor.com/tkpOfRTT21UAAAAi/flexed-biceps-joypixels.gif" width="3%" alt="💪">](https://chsw.pp.ua/) Skills
-- 👨‍💻 HTML5(BEM), CSS3(tailwind, scss), JavaScript(react, redux, vue, fetch, rest api), SQL, Node.js
-- 🎇 Git/Github, VS Code, Trello, Notion, Slack, Jira
+- 👨‍💻 HTML5(BEM), CSS3(tailwind, scss), JavaScript(react, redux, vue, fetch, axios, rest api), PostgreSQL, Node.js(Express)
+- 🎇 Git/Github, VS Code, Postman, Trello, Notion, Slack, Jira
 - 👁️ Figma, Photoshop, Premier
 - 🎤 Streaming
 
