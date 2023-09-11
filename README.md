@@ -14,7 +14,6 @@
 
 ## [<img src="https://static.tildacdn.com/tild3665-6438-4332-a430-633965613961/Call-Me-Hand.gif" width="3%" alt="🤙">](https://chsw.pp.ua/) Contact
 [<img src="https://chsw.pp.ua/main/img/logos/logo.png" width="4%">](https://chsw.pp.ua/)
-[<img src="https://chsw.pp.ua/main/img/logos/Discord-Logo.png" width="4%">](https://discord.gg/9krjq7NxG4)
 [<img src="https://chsw.pp.ua/main/img/logos/LinkedIn-Logo.png" width="4%">](https://www.linkedin.com/in/sviatoslav-holovin-33b99025a/)
 [<img src="https://chsw.pp.ua/main/img/logos/StackOverflow-Logo.png" width="4%">](https://stackoverflow.com/users/20783198/ggsmou)
 [<img src="https://chsw.pp.ua/main/img/logos/LeetCode-Logo.png" width="4%">](https://leetcode.com/GGsmou/)
